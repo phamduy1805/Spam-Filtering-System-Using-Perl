@@ -17,6 +17,7 @@ our $MODEL_FILE   = "/home/canguangamchua/spam_filtering/SystemFiles/model/proba
 our $EMAIL_FROM        = 'gaduy035@gmail.com';
 our $EMAIL_TO          = 'gaduy035@gmail.com';
 our $EMAIL_SUBJECT     = 'Spam Email Detection Report';
-our $EMAIL_APP_PASSWORD= 'lydw xzvy sytd umqj';
+our $EMAIL_APP_PASSWORD= 'your app password';
 
 1;
+
