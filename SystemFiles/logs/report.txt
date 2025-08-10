@@ -1,0 +1,10 @@
+Email 1 [SPAM]:
+Congratulations! You've been selected for a $500 Walmart gift card. Click to claim now.
+   -> SPAM probability: 99.85%
+   -> HAM probability : 0.15%
+
+Email 2 [HAM]:
+C on gr atu lat ions! Yo u' ve be en sele cted fo r a $5 00 Walma rt gif t card . Clic k to cl aim no w.
+   -> SPAM probability: 0.00%
+   -> HAM probability : 100.00%
+
